@@ -1,0 +1,54 @@
+.card-background {
+    height: 600px;
+    width: 1200px;
+    background-color: lightgrey;
+}
+
+.season-cards {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 130px;
+    margin: 0px;
+}
+
+.header {
+    font-weight: bold;
+    margin-top: 325px;
+}
+
+.spring {
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.summer {
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.autumn {
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.winter {
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}

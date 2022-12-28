@@ -17,23 +17,20 @@
     padding: 5px;
     background: #73AD21;
   }
-  
   .card .card-body {
     padding: 20px;
   }
-  
   .card .card-title {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 10px;
+    vertical-align: bottom;
   }
-  
   .card .card-text {
     font-size: 16px;
     color: #666;
     line-height: 1.5;
   }
-  
   .card .btn {
     display: block;
     width: 15%;
@@ -49,7 +46,6 @@
     font-weight: bold;
     cursor: pointer;
   }
-  
   .card .btn:hover {
     background-color: #444;
   }
